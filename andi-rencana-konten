@@ -4,6 +4,7 @@ rencana konten andi
   *ES6
   *Framework js
    ^vue
+   ^react
  - struktur data dasar
 - Php framework
   ^Laravel
