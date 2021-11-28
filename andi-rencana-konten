@@ -3,7 +3,10 @@ rencana konten andi
 - Javascript
   *ES6
   *Framework js
+   ^vue
  - struktur data dasar
 - Php framework
+  ^Laravel
 - Interview
 - Volgs
+- python
